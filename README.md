@@ -40,3 +40,31 @@ Image C
 15.2.4
 ![image](https://user-images.githubusercontent.com/79073778/127390014-0114c845-6a84-4fd8-9c81-e80f241ef3eb.png)
 Image D
+
+
+## T-Tests on Suspension Coils
+
+Summarize my interpretation and finding for the t-test results
+
+
+
+
+![image](https://user-images.githubusercontent.com/79073778/127593275-0d8768ce-8133-4107-85d1-65d97a48f21d.png)
+
+![image](https://user-images.githubusercontent.com/79073778/127593230-63bc31f8-f96b-454f-ac63-f3ad097a7879.png)
+
+![image](https://user-images.githubusercontent.com/79073778/127593201-a55cba1c-0315-4641-ae32-451d779caaf2.png)
+
+![image](https://user-images.githubusercontent.com/79073778/127593173-2fa75b4f-3159-4300-8796-ee97ede1191b.png)
+
+End of Deliv 3
+
+## Study Design: MechaCar vs Competition
+
+Describe what stat study & metrics in your study design would use to quantify how the MechaCar performs against the competition?
+
+Address the following in description above:
+1) What metric or metrics are you going to test?
+2) What is the null hypothesis or alternative hypothesis?
+3) What statistical test would you use to test the hypothesis?  And why?
+4) What data is needed to run the statistical test?
