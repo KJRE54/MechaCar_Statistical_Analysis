@@ -65,11 +65,10 @@ In my study design, on how MechaCar performs against the competition by studying
 cars use different gas octanes (e.g., 87, 89, 93 octanes).  I would use the multiple linear regression statistical model to
 test my hypothesis below because we have multiple independent variables and one dependent variable.  We can use this particular 
 test to see how strong or weak the correlations between independent variable (octane) and other variables and MPG. Numerical
-data is needed to run the statistical test.  Our model should look like MPG = m1*Octane_Type* + m2*Vehicle_Length* + m3*Horse_Power*
-+ m4*Transmission_Type* + b. (y = m1*X1* + m2*X2* + m3*X3* + m4*X4* + b)
+data is needed to run the statistical test.  Our model should look like MPG = m1*Octane_Type* + m2*Vehicle_Length* + m3*Horse_Power* + m4*Transmission_Type* + b. (y = m1*X1* + m2*X2* + m3*X3* + m4*X4* + b)
 
 The null and alternative hypothesis to be tested:
-Ho (null)- Using higher octane gas makes a diffrence in MPG performance.
-Ha (alternative) - Using any octane level has minimal bearing on the MPG performance.
+-H*o* (null)- Using higher octane gas makes a diffrence in MPG performance.
+-H*a* (alternative) - Using any octane level has minimal bearing on the MPG performance.
 
 
