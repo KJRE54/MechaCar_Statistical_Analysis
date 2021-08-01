@@ -45,7 +45,7 @@ Image E
 For aggregate lots, the p-value of .06 is above the significance level, concluding  that there is not enough evidence to reject
 the null hypothesis.
 
-Images F & G
+Images F (above) & G (below)
 ![image](https://user-images.githubusercontent.com/79073778/127593230-63bc31f8-f96b-454f-ac63-f3ad097a7879.png)
 
 ![image](https://user-images.githubusercontent.com/79073778/127593201-a55cba1c-0315-4641-ae32-451d779caaf2.png)
@@ -64,11 +64,14 @@ the null hypothesis is to be rejected.
 In my study design, on how MechaCar performs against the competition by studying the "metric" of fuel efficiency (MPG) when
 cars use different gas octanes (e.g., 87, 89, 93 octanes).  I would use the multiple linear regression statistical model to
 test my hypothesis below because we have multiple independent variables and one dependent variable.  We can use this particular 
-test to see how strong or weak the correlations between independent variable (octane) and other variables and MPG. Numerical
-data is needed to run the statistical test.  Our model should look like MPG = m1*Octane_Type* + m2*Vehicle_Length* + m3*Horse_Power* + m4*Transmission_Type* + b. (y = m1*X1* + m2*X2* + m3*X3* + m4*X4* + b)
+test to see how strong or weak the correlations between independent variable (octane) and other variables and MPG. 
+
+Numerical data is needed to run the statistical test.  Our model should look like MPG = m1*Octane_Type* + m2*Vehicle_Length* + m3*Horse_Power* + m4*Transmission_Type* + b. (y = m1*X1* + m2*X2* + m3*X3* + m4*X4* + b)
 
 The null and alternative hypothesis to be tested:
+
 -H*o* (null)- Using higher octane gas makes a diffrence in MPG performance.
 -H*a* (alternative) - Using any octane level has minimal bearing on the MPG performance.
+
 
 
