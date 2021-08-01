@@ -41,6 +41,7 @@ Assuming a significance level of 0.05 for the 4 t-tests, the results and images 
 
 Image E
 ![image](https://user-images.githubusercontent.com/79073778/127593275-0d8768ce-8133-4107-85d1-65d97a48f21d.png)
+
 For aggregate lots, the p-value of .06 is above the significance level, concluding  that there is not enough evidence to reject
 the null hypothesis.
 
@@ -48,20 +49,27 @@ Images F & G
 ![image](https://user-images.githubusercontent.com/79073778/127593230-63bc31f8-f96b-454f-ac63-f3ad097a7879.png)
 
 ![image](https://user-images.githubusercontent.com/79073778/127593201-a55cba1c-0315-4641-ae32-451d779caaf2.png)
+
 The same concluaion ia reached for Lot1 and Lot2 as the p-values are above the significant level at "1" and ".06", respectively.
 So therefore, we fail to reject the null hypothesis.
 
 Image H
 ![image](https://user-images.githubusercontent.com/79073778/127593173-2fa75b4f-3159-4300-8796-ee97ede1191b.png)
+
 However Lot3 is below our signicant level, and therefore we'll conclude that there is sufficient statistical evidence that
 the null hypothesis is to be rejected.
 
 ## Study Design: MechaCar vs Competition
 
-Describe what stat study & metrics in your study design would use to quantify how the MechaCar performs against the competition?
+In my study design, on how MechaCar performs against the competition by studying the "metric" of fuel efficiency (MPG) when
+cars use different gas octanes (e.g., 87, 89, 93 octanes).  I would use the multiple linear regression statistical model to
+test my hypothesis below because we have multiple independent variables and one dependent variable.  We can use this particular 
+test to see how strong or weak the correlations between independent variable (octane) and other variables and MPG. Numerical
+data is needed to run the statistical test.  Our model should look like MPG = m1*Octane_Type* + m2*Vehicle_Length* + m3*Horse_Power*
++ m4*Transmission_Type* + b. (y = m1*X1* + m2*X2* + m3*X3* + m4*X4* + b)
 
-Address the following in description above:
-1) What metric or metrics are you going to test?
-2) What is the null hypothesis or alternative hypothesis?
-3) What statistical test would you use to test the hypothesis?  And why?
-4) What data is needed to run the statistical test?
+The null and alternative hypothesis to be tested:
+Ho (null)- Using higher octane gas makes a diffrence in MPG performance.
+Ha (alternative) - Using any octane level has minimal bearing on the MPG performance.
+
+
